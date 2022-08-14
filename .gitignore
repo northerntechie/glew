@@ -15,6 +15,9 @@
 /build/cmake/Makefile
 /auto/extensions
 /auto/registry
+auto/EGL-Registry/
+auto/OpenGL-Registry/
+auto/glfixes/
 /bin
 /lib
 /tmp
